@@ -8,7 +8,7 @@ using UnityEngine;
 
 namespace UnderFire
 {
-    [BepInPlugin("com.harmony.UnderFire", "Under Fire", "1.0.0")]
+    [BepInPlugin("com.harmonyzt.underfire", "Under Fire", "1.0.0")]
     public class Plugin : BaseUnityPlugin
     {
         internal static ManualLogSource logSource;
