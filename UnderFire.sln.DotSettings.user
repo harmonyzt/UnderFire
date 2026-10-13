@@ -13,4 +13,5 @@
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=9076ADE2_002DF4EE_002D4B5D_002DB9A6_002D29A054CF0A7E_002Fd_003ADrawer_002Ff_003AMain_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
   &lt;Assembly Path="D:\401SPT\EscapeFromTarkov_Data\Managed\Assembly-CSharp.dll" /&gt;&#xD;
+  &lt;Assembly Path="D:\401SPT\dev\EFTEffectManager\bin\Debug\net472\EFTEffectManager.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
